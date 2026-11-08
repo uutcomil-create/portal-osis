@@ -1,0 +1,8 @@
+{
+  "name": "Remix Portal Digital OSIS SMP Negeri 1 Ungaran",
+  "description": "Portal digital modern, interaktif, dan informatif resmi OSIS SMP Negeri 1 Ungaran menampilkan profil, struktur organisasi 28 pengurus, 10 seksi bidang, program kerja, dan galeri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
